@@ -1,0 +1,19 @@
+{
+  "name": "bdc_partner",
+  "version": "1.0.0",
+  "description": "bdc sales page",
+  "main": "sales.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jryandoherty/bdc_partner.git"
+  },
+  "author": "j. ryan doherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jryandoherty/bdc_partner/issues"
+  },
+  "homepage": "https://github.com/jryandoherty/bdc_partner#readme"
+}
